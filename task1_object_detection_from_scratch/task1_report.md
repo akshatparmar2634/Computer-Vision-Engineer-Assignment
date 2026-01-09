@@ -25,7 +25,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Simple | 0.0033 | 0.040 | 0.069 | 195.2 | 5.12 | 4.9 |
 | Medium | 0.0050 | 0.062 | 0.049 | 411.4 | 2.43 | 12.8 |
-| Complex | 0.0000 | 0.000 | 0.000 | 63.9 | 15.6 | 153.9 |
+| Complex | 0.0010 | 0.079 | 0.000 | 63.9 | 15.6 | 153.9 |
 
 - Source table: [task1_object_detection_from_scratch/checkpoints/evaluation_results.csv](checkpoints/evaluation_results.csv)
 - Interpretation: speed targets met, but accuracy is very low; Complex failed to learn due to simplistic ROI/target assignment.

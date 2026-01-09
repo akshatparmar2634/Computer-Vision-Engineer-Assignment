@@ -283,14 +283,6 @@ Defect #2:
 - [ ] Additional defect types
 - [ ] Multi-scale detection improvements
 
-## Requirements Compliance
-
-✅ **Requirement 1**: Analyzes input images of PCB products  
-✅ **Requirement 2**: Detects and localizes defect regions with bounding boxes  
-✅ **Requirement 3**: Classifies each defect type with confidence scores  
-✅ **Requirement 4**: Outputs (x, y) pixel coordinates of defect centers and severity assessment  
-✅ **Requirement 5**: Includes sample images with annotations in repository
-
 ## License
 
 This project is part of a Computer Vision Engineer Assignment.
