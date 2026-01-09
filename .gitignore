@@ -1,0 +1,7 @@
+task1_object_detection_from_scratch/data
+task2_quality_inspection/pcb-defect-dataset
+task2_quality_inspection/runs
+task2_quality_inspection/batch_inspection_results
+task2_quality_inspection/inspection_results
+task2_quality_inspection/yolo11n.pt
+task2_quality_inspection/yolov8n.pt
